@@ -14,7 +14,7 @@ import com.itbank.model.ReviewDTO;
 import com.itbank.service.ReviewService;
 
 @Controller
-public class MainController {
+public class MainController {	// 2021.06.10
 	
 	@Autowired private ReviewService rs;
 
